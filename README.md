@@ -3,7 +3,7 @@
 
 
 
-An Aspiring Developer from the Cebu Eastern College Inc.  
+An Aspiring Web Developer from the Cebu Eastern College Inc.  
 
 ![Profile views](https://komarev.com/ghpvc/?username=Yuyuhiei&label=Profile%20views&color=0e75b6&style=flat)
 
