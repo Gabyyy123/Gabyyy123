@@ -15,17 +15,14 @@ An Aspiring Ethical Hacker from the Cebu Eastern College Inc.
 ---
 
 ### Languages and Tools:
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="43" height="43" alt="arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="43" height="43" alt="c"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="43" height="43" alt="c++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="43" height="43" alt="mysql"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="43" height="43" alt="html5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="43" height="43" alt="css3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="43" height="43" alt="figma"/>
-  <img src="https://cdn.simpleicons.org/nmap/4DA8E1" width="43" height="43" alt="nmap"/>
-  <img src="https://cdn.simpleicons.org/gnumetasterminal/CCCCCC" width="43" height="43" alt="terminal"/>
-  <img src="https://cdn.simpleicons.org/wireshark/167EBE" width="43" height="43" alt="wireshark"/>
-</p>
-
+![Arduino](https://img.icons8.com/color/43/000000/arduino.png)
+![C](https://img.icons8.com/color/43/000000/c-programming.png)
+![C++](https://img.icons8.com/color/43/000000/c-plus-plus-logo.png)
+![MySQL](https://img.icons8.com/color/43/000000/mysql-logo.png)
+![HTML5](https://img.icons8.com/color/43/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/43/000000/css3.png)
+![Figma](https://img.icons8.com/color/43/000000/figma--v1.png)
+![Nmap](https://img.icons8.com/color/43/000000/nmap.png)
+![Terminal](https://img.icons8.com/color/43/000000/console.png)
+![Wireshark](https://img.icons8.com/color/48/000000/wireshark.png)
 
