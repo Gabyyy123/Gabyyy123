@@ -19,5 +19,8 @@ An Aspiring Web Developer from the Cebu Eastern College Inc.
 ![C](https://img.icons8.com/color/48/000000/c-programming.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)
-
+![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
+![Nmap](https://img.icons8.com/color/48/000000/nmap.png)
 
