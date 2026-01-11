@@ -10,7 +10,6 @@ An Aspiring Ethical Hacker from the Cebu Eastern College Inc.
 - 🎓 I’m currently studying **Information Technology**  
 - 🌱 I’m currently learning **CyberSecurity (ReadTeam)**
 - 📫 How to reach me: **gabrillojhonloyd@gmail.com**  
-- ⚡ Fun fact: **I love cats and dogs.**
 
 ---
 
