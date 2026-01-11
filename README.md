@@ -15,16 +15,18 @@ An Aspiring Ethical Hacker from the Cebu Eastern College Inc.
 ---
 
 ### Languages and Tools:
-### Languages and Tools:
-![Arduino](https://img.icons8.com/color/43/000000/arduino.png)
-![C](https://img.icons8.com/color/43/000000/c-programming.png)
-![C++](https://img.icons8.com/color/43/000000/c-plus-plus-logo.png)
-![MySQL](https://img.icons8.com/color/43/000000/mysql-logo.png)
-![HTML5](https://img.icons8.com/color/43/000000/html-5--v1.png)
-![CSS3](https://img.icons8.com/color/43/000000/css3.png)
-![Figma](https://img.icons8.com/color/43/000000/figma--v1.png)
-![Nmap](https://img.icons8.com/color/43/000000/nmap.png)
-![Terminal](https://img.icons8.com/color/43/000000/console.png)
-![Wireshark](https://img.icons8.com/color/43/000000/wireshark.png)
+
+<p align="left">
+  <img src="https://img.icons8.com/color/48/arduino.png" width="43" height="43" alt="arduino"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" width="43" height="43" alt="c"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="43" height="43" alt="c++"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" width="43" height="43" alt="mysql"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" width="43" height="43" alt="html5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" width="43" height="43" alt="css3"/>
+  <img src="https://img.icons8.com/color/48/figma--v1.png" width="43" height="43" alt="figma"/>
+  <img src="https://img.icons8.com/color/48/nmap.png" width="43" height="43" alt="nmap"/>
+  <img src="https://img.icons8.com/color/48/console.png" width="43" height="43" alt="terminal"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wireshark/wireshark-original.svg" width="43" height="43" alt="wireshark"/>
+</p>
 
 
