@@ -8,7 +8,7 @@ An Aspiring Web Developer from the Cebu Eastern College Inc.
 ![Profile views](https://komarev.com/ghpvc/?username=Yuyuhiei&label=Profile%20views&color=0e75b6&style=flat)
 
 - 🎓 I’m currently studying **Information Technology**  
-- 🌱 I’m currently learning **Front-End Development**  
+- 🌱 I’m currently learning **CyberSecurity (ReadTeam)**
 - 📫 How to reach me: **gabrillojhonloyd@gmail.com**  
 - ⚡ Fun fact: **I love cats and dogs.**
 
@@ -23,4 +23,5 @@ An Aspiring Web Developer from the Cebu Eastern College Inc.
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png)
 ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)
 ![Nmap](https://img.icons8.com/color/48/000000/nmap.png)
+
 
